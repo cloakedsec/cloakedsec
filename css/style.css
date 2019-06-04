@@ -16,7 +16,7 @@ footer {
   margin-bottom: 8px;
 }
 .navbar-light {
-  background: #E7AF00;
+  background: #636c72;
 }
 
 .navbar-toggler {
@@ -25,7 +25,7 @@ footer {
 
 }
 .navbar-toggler:focus{
- outline: none;
+ outline: 2px;
 }
 .navbar-toggler:hover{
    border: 2px solid #247BA0;
@@ -33,7 +33,8 @@ footer {
 }
 
 .nav-link {
-  text-decoration: none;
+  text-decoration: bold;
+
 }
 
 a {
@@ -236,4 +237,3 @@ h2 {
   }
 
 }
- 
