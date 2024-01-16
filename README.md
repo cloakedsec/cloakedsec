@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ahmad Faraz
-- 👀 I’m interested in Infrastructure Design & System Architect
-- 🌱 I’m currently learning Java, Springboot, React.js & Typescript
+- 🌱 I work with Java, Springboot, React.js & Typescript and other Javascript libraries and frameworks
+-  👀 I’m interested in Infrastructure Design & System Architect
 - 💞️ I’m looking to collaborate on any Open Source project including Web Application, Automation Solution & Web Security.
 - 📫 How to reach me : faraz.ahmad@live.in
 
