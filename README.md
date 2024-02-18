@@ -1,7 +1,6 @@
 - 👋 Hi, I’m an independent Full Stack Developer who stumbled upon the realms of nix
 - ADB, Sideload Projects (Private Repos)
-- 🌱  Java, Springboot, React.js & Javascript/Typescript mainly (openAPI)
-- Test Automation Suites (private keys)
+- 🌱  Java, Springboot, Javascript, React.js & Typescript 
 -  👀 Lurking into the realms of bash, nix, opensource projects (Forked)
 - 💞️ Active MDN | Canonical | OffSec | OWASP | OSCP
 - 📫 How to reach me : faraz.ahmad@live.in
